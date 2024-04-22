@@ -4,52 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a41584e123a84176f1acffc4038d1487",
+    "content-hash": "74475d0ef9e0a4253fa993ad85baa61b",
     "packages": [
-        {
-            "name": "4rn0/statamic-image-optimizer",
-            "version": "v1.1.1",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/4rn0/statamic-image-optimizer.git",
-                "reference": "0e7314e3a234f274e13d3893b045d7d9f5759618"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/4rn0/statamic-image-optimizer/zipball/0e7314e3a234f274e13d3893b045d7d9f5759618",
-                "reference": "0e7314e3a234f274e13d3893b045d7d9f5759618",
-                "shasum": ""
-            },
-            "type": "statamic-addon",
-            "extra": {
-                "statamic": {
-                    "name": "Statamic Image Optimizer",
-                    "description": "Statamic Image Optimizer addon"
-                },
-                "laravel": {
-                    "providers": [
-                        "Arnohoogma\\StatamicImageOptimizer\\ServiceProvider"
-                    ]
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Arnohoogma\\StatamicImageOptimizer\\": "src"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "authors": [
-                {
-                    "name": "Arno Hoogma"
-                }
-            ],
-            "description": "Statamic Image Optimizer addon",
-            "support": {
-                "email": "arno@hoog.ma",
-                "source": "https://github.com/4rn0/statamic-image-optimizer/tree/v1.1.1"
-            },
-            "time": "2023-05-10T10:19:22+00:00"
-        },
         {
             "name": "ajthinking/archetype",
             "version": "v1.1.5",
