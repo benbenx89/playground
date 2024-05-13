@@ -28,6 +28,7 @@
         "steadfastcollective/statamic-csv-exporter": "^2.2",
         "stoffelio/statamic-404-logger": "^1.0",
         "visuellverstehen/statamic-anchor-navigation": "^0.3.6@beta",
+        "visuellverstehen/statamic-classify": "^2.6",
         "webographen/statamic-admin-log": "^1.0"
     },
     "require-dev": {
