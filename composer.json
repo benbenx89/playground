@@ -20,6 +20,7 @@
         "laravel/tinker": "^2.8",
         "pecotamic/sitemap": "^1.4",
         "rias/statamic-address-field": "^1.2",
+        "rias/statamic-button-box": "^3.1",
         "rias/statamic-data-import": "^1.4",
         "rias/statamic-redirect": "^3.6",
         "statamic/cms": "^4.0",
